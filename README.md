@@ -1,7 +1,7 @@
 # TikTok-Downloader
 > TikTok က video များအား logo or Water-marks မပါပဲ‌‌ဒေါင်းနိုင်အောင်ရည်ရွယ်၍ ထုတ်ပေးထားပါသည်။
 # Usage Library
->settings.gradle ထည့်‌ပေး
+>settings.gradle ထည့်‌ပေးပါ
 
 ```
 allprojects {
@@ -11,7 +11,7 @@ allprojects {
 		}
 	}
 ```
->build.gradle ထည့်‌ပေး
+>build.gradle ထည့်‌ပေးပါ
 ```
 dependencies {
 	        implementation 'com.github.Thawtarlamin:TikTok-Downloader:1.3.0'
